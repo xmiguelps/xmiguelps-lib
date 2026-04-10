@@ -1,0 +1,5 @@
+# Dependências
+node_modules/
+
+# Build gerado (não precisa versionar, é gerado pelo npm run build)
+dist/
